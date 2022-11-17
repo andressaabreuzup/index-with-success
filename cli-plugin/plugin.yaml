@@ -1,7 +1,7 @@
 name: cli-plugin
 description: Adds the capability of a CLI to the python-app-template
 display-name: cli-plugin
-picture: imagens/imagem.png
+picture: imagem.png
 category: Backend # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
 compatibility:
   - Python
