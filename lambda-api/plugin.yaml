@@ -5,7 +5,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_arch
 category: Backend # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
 compatibility:
   - Python
-about: docs/about.md
+about: docs/about_doc.md
 usage: docs/usage.md
 use-case: docs/use-case.md
 implementation: docs/implementation.md
